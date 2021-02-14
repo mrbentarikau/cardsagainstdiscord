@@ -1,4 +1,4 @@
-module github.com/jonas747/cardsagainstdiscord
+module github.com/mrbentarikau/cardsagainstdiscord
 
 go 1.13
 
