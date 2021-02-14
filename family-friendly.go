@@ -597,7 +597,7 @@ func init() {
 			`Shoplifting`,
 			`%blank`,
 		},
-	}
+	},
 
-	AddPack(pack)
+		AddPack(pack)
 }
