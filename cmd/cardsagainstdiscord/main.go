@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/jonas747/cardsagainstdiscord"
+	"github.com/mrbentarikau/cardsagainstdiscord"
 	"github.com/jonas747/dcmd"
 	"github.com/jonas747/discordgo"
 	"github.com/jonas747/dstate"
